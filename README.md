@@ -32,3 +32,6 @@ Register asset bundle in View
 /* @var $this \yii\web\View */
 \andrewdanilov\swiperslider\SwiperSliderAsset::register($this);
 ```
+
+For using slider refer to docs:
+https://swiperjs.com/api/
