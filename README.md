@@ -19,7 +19,7 @@ or add
 "andrewdanilov/yii2-swiper-slider": "~1.0.0"
 ```
 
-to the require section of your `composer.json` file.
+to the `require` section of your `composer.json` file.
 
 
 Usage
@@ -34,4 +34,4 @@ Register asset bundle in View
 ```
 
 For using slider refer to docs:
-https://swiperjs.com/api/
+[Swiper API](https://swiperjs.com/swiper-api "Swiper API" target="_blank")
