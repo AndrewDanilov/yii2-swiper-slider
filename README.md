@@ -34,4 +34,4 @@ Register asset bundle in View
 ```
 
 For using slider refer to docs:
-[Swiper API](https://swiperjs.com/swiper-api "Swiper API" target="_blank")
+https://swiperjs.com/swiper-api
